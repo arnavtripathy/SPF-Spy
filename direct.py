@@ -1,4 +1,7 @@
+#!/usr/bin/env python3
 
+
+#pip3 install sendgrid
 import os
 from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import Mail
